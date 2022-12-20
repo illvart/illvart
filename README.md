@@ -11,9 +11,6 @@
   <a href="https://twitter.com/illvart">
     <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=labelColor=white" alt="Twitter">
   </a>
-  <a href="https://t.me/illvart">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=labelColor=white" alt="Telegram">
-  </a>
   <a href="mailto:illvartv@gmail.com">
     <img src="https://img.shields.io/badge/-Email-grey?style=labelColor=white" alt="Email">
   </a>
